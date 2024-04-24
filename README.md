@@ -1,2 +1,2 @@
 # infa_tagaykulov
-hello world
+salam aleykum
